@@ -6,16 +6,17 @@ L'objectif principal est de comprendre comment créer et utiliser des exceptions
 
 ### Points Importants sur les Exceptions en Java
 
-1. **Qu'est-ce qu'une exception ?**  
+1. **Qu'est-ce qu'une exception ?**
+   
    Une exception est un événement inattendu interrompant le flux normal du programme. En Java :
     - Les **exceptions surveillées** (checked) sont vérifiées à la compilation (ex. : IOException).
     - Les **exceptions non surveillées** (unchecked) surviennent à l'exécution (ex. : ArithmeticException).
 
-2. **Création d'exceptions personnalisées** :
+3. **Création d'exceptions personnalisées** :
     - Les exceptions personnalisées permettent de mieux gérer les erreurs spécifiques.
     - Héritent de la classe `Exception` et incluent des attributs/méthodes pour stocker des informations utiles.
 
-3. **Blocs try-catch** :  
+4. **Blocs try-catch** :  
    Utilisés pour capturer et traiter les exceptions, garantissant une exécution continue du programme.
 
 ### TP : Gestion des Exceptions (Exercice Universitaire)
