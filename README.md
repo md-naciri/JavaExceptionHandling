@@ -31,7 +31,4 @@ Les fonctionnalités incluent :
 ### Résumé du Code
 
 L'exercice inclut une classe principale permettant de tester la gestion des exceptions avec des entrées utilisateur.  
-Le programme interrompt l'exécution ou affiche des messages en cas d'erreur, selon les bonnes pratiques.
-
----
-
+Le programme interrompt l'exécution ou affiche des messages en cas d'erreur.
